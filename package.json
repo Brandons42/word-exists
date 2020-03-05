@@ -1,7 +1,7 @@
 {
 	"name": "word-exists",
 	"version": "1.0.0",
-	"main": "index.js",
+	"main": "wordExists.js",
 	"repository": "https://github.com/Brandons42/word-exists.git",
 	"author": "Brandon Suen <brandonsuendeveloper@gmail.com>",
 	"license": "MIT"
