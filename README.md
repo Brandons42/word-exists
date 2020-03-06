@@ -1,5 +1,5 @@
 # Word Exists
-Check if a word exists or not in English
+Check if a word exists or not in English-- lightweight package with no extra dependencies.
 ## Installation
 ```
 npm install word-exists --save
