@@ -22,6 +22,7 @@ test('evaluates words', () => {
 	expect(wordExists('word')).toBe(true);
 	expect(wordExists('exists')).toBe(true);
 	expect(wordExists('so')).toBe(true);
+	expect(wordExists('   spaced ')).toBe(true);
 });
 
 test('throws error for wrong type', () => {
