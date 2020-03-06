@@ -1,10 +1,29 @@
 {
 	"name": "word-exists",
 	"version": "1.0.0",
+	"description": "Check if a word exists or not in English",
+	"keywords": [
+		"word",
+		"words",
+		"exist",
+		"exists",
+		"dictionary",
+		"is",
+		"check"
+	],
 	"main": "wordExists.js",
 	"repository": "https://github.com/Brandons42/word-exists.git",
-	"author": "Brandon Suen <brandonsuendeveloper@gmail.com>",
+	"homepage": "https://github.com/Brandons42/word-exists#readme",
 	"license": "MIT",
+	"author": {
+		"name": "Brandon Suen",
+		"email": "brandonsuendeveloper@gmail.com",
+		"url": "https://bsuen.netlify.com/"
+	},
+	"files": [
+		"wordExists.js",
+		"dictionary.json"
+	],
 	"devDependencies": {
 		"jest": "^25.1.0"
 	},
