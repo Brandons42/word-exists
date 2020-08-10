@@ -11,7 +11,7 @@ yarn add word-exists
 ## Usage
 Simply pass in a string as a parameter and a Boolean will be output. Hyphenated compound words aren't counted as words.
 ```js
-const wordExists = require('wordExists');
+const wordExists = require('word-exists');
 
 wordExists('word');
 //true
